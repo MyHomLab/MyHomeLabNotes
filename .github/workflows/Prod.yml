@@ -19,6 +19,9 @@ jobs:
           node-version: 18
           cache: yarn
           cache-dependency-path: ./docs/package-lock.json
+      # list files in the working directory
+      - name: List files in the working directory
+        run: ls -a
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
