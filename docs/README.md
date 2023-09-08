@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/MyHomLab/MyHomeLabNotes/actions/workflows/Prod.yml/badge.svg?branch=main)](https://github.com/MyHomLab/MyHomeLabNotes/actions/workflows/Prod.yml)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
