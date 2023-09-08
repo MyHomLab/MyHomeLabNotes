@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'MyHomLab', // Usually your GitHub org/user name.
-  projectName: 'MyHomeLabNotes', // Usually your repo name.
+  projectName: 'MyHomeLabNotes', // Usually your repo name.n
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
