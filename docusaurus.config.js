@@ -9,23 +9,13 @@ const config = {
   title: 'Home-lab',
   tagline: 'Awesome Home Lab Journey',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://myhomlab.github.io/',
   baseUrl: '/MyHomeLabNotes/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MyHomLab', // Usually your GitHub org/user name.
-  projectName: 'MyHomeLabNotes', // Usually your repo name.n
+  trailingSlash: false,  
+  organizationName: 'MyHomLab',
+  projectName: 'MyHomeLabNotes',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
