@@ -73,11 +73,11 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-        ],        
-      },
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //   ],        
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
