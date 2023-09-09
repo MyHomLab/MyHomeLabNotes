@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '.github/workflows/prod.yml'
+    # paths:
+    #   - '.github/workflows/prod.yml'
 
 jobs:
   deploy:
