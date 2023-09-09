@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - '.github/workflows/prod.yml'
-  pull_request:
+
 jobs:
   deploy:
     name: Deploy to GitHub Pages
