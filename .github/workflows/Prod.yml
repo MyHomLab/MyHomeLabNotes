@@ -1,19 +1,25 @@
-name: Deploy to GitHub Pages
+name: Github Pages
 
 on:
   push:
     branches:
       - main
+    paths:
+      - '.github/workflows/prod.yml'
+  pull_request:
 jobs:
   deploy:
     name: Deploy to GitHub Pages
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
     # update working directory
     defaults:
       run:
         working-directory: docs
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -29,11 +35,9 @@ jobs:
       - name: Build website
         run: yarn build
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          # user_name: atulmgupta
-          # user_email: atulmgupta@users.noreply.github.com
+          publish_dir: ./docs/build
