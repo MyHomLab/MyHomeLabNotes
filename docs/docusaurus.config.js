@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Home-lab',
   tagline: 'Awesome Home Lab Journey',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/homelab.ico',
   url: 'https://homeautomations.dev/',
   baseUrl: '/',
   trailingSlash: false,
