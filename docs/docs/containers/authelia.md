@@ -19,3 +19,6 @@ Getting Started
 To get started with Authelia, you can follow the Getting Started guide on the official website. It will help you install Authelia using Docker or Kubernetes, configure it with your reverse proxy, set up your users and domains, and test it with some example applications.
 
 You can also check out the basic syntax page on the Markdown Guide website to learn how to format your documents using Markdown. Markdown is a simple and easy-to-use markup language that you can use to create headings, lists, tables, links, images, code blocks, and more.
+
+
+## Docker-Compose
