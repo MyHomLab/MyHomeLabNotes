@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://homeautomations.dev/blog"/>
     <subtitle>Home-lab Blog</subtitle>
-    <icon>https://homeautomations.dev/img/favicon.ico</icon>
+    <icon>https://homeautomations.dev/img/homelab.ico</icon>
     <entry>
         <title type="html"><![CDATA[home-server]]></title>
         <id>https://homeautomations.dev/blog/2023/09/09/home-server</id>
