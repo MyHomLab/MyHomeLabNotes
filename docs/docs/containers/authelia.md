@@ -1,7 +1,14 @@
-Authelia: The Single Sign-On Multi-Factor Portal for Web Apps
+---
+sidebar_position: 6
+---
+
+# Authelia
+
+
+## Authelia: The Single Sign-On Multi-Factor Portal for Web Apps
 Authelia is an open-source authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It acts as a companion for common reverse proxies.
 
-Features
+## Features
 Open-source: Authelia is licensed under Apache 2.0 and hosted on GitHub, where you can contribute to its development and report issues.
 Lightweight: Authelia has a compressed container size smaller than 20 megabytes and low memory usage, making it one of the most lightweight solutions available.
 Fast: Authelia is written in Go and React, and can handle authorization policies and other backend tasks in milliseconds. The login portal has a loading time of 100 milliseconds, making it one of the fastest solutions available.
