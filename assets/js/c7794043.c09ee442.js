@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6639],{7351:e=>{e.exports=JSON.parse('{"label":"Setup","permalink":"/docs/tags/setup","allTagsPath":"/docs/tags","count":1,"items":[{"id":"General/docker/docker-setup","title":"Docker-Setup","description":"","permalink":"/docs/General/docker/docker-setup"}]}')}}]);
