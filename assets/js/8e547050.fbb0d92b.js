@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[868],{6241:t=>{t.exports=JSON.parse('{"label":"OAuth","permalink":"/docs/tags/o-auth","allTagsPath":"/docs/tags","count":1,"items":[{"id":"containers/Authelia","title":"Authelia","description":"Introduction","permalink":"/docs/containers/Authelia"}]}')}}]);
