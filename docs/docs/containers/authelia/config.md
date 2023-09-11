@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
-title: Authelia
-id: Authelia
+title: Authelia-Config
+id: Authelia-Config
 tags:
   - Authelia
   - OAuth
