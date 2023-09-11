@@ -1,11 +1,17 @@
 ---
 sidebar_position: 1
+title: Authelia
+id: Authelia
+tags:
+  - Authelia
+  - OAuth
+  - Security
 ---
 
 # Authelia
 
 
-## Authelia: The Single Sign-On Multi-Factor Portal for Web Apps
+## Introduction
 Authelia is an open-source authentication and authorization server and portal fulfilling the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal. It acts as a companion for common reverse proxies.
 
 ## Features
@@ -22,3 +28,4 @@ You can also check out the basic syntax page on the Markdown Guide website to le
 
 
 ## Docker-Compose
+
