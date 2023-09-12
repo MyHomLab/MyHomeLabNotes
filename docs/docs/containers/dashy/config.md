@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
-title: Install
-id: Dashy-Install
+title: Config
+id: Dashy-Config
 tags:
   - Config
   - Configuration
