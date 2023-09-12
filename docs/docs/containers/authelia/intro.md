@@ -8,7 +8,9 @@ tags:
   - Security
 ---
 
-# Authelia: The Ultimate Authentication and Authorization Solution for Your Web Applications
+# Introduction
+
+## The Ultimate Authentication and Authorization Solution for Your Web Applications
 
 Do you want to protect your web applications from unauthorized access and enhance your online security? Do you want to log in once and access multiple web applications without entering your credentials again and again? Do you want to choose the best authentication method that suits your needs and preferences?
 

@@ -6,7 +6,8 @@ tags:
   - Introduction
 ---
 
-# Dashy: The Ultimate Homepage for Your Homelab
+# Introduction
+## Dashy: The Ultimate Homepage for Your Homelab
 
 Do you have a lot of self-hosted services that you want to access from a single place? Do you want to customize the look and feel of your homepage with themes, icons, widgets, and more? Do you want to monitor the status of your services and display dynamic content from various sources?
 
