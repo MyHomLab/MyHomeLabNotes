@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Conclusion
-id: Dashy-Conclusion
+id: -Conclusion
 tags:
   - Conclusion
 ---
