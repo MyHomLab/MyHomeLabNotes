@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: Authelia
-id: Authelia
+title: Introduction
+id: Authelia-Introduction
 tags:
   - Authelia
   - OAuth

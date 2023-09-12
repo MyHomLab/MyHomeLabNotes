@@ -1,5 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
+title: Traefik
+id: Traefik-Introduction
+tags:
+  - Traefik
+  - Proxy  
 ---
 
 # Introduction
