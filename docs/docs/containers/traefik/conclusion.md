@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Traefik-Conclusion
+title: Conclusion
 id: Traefik-Conclusion
 tags:
   - Traefik

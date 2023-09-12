@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Authelia-Conclusion
+title: Conclusion
 id: Authelia-Conclusion
 tags:
   - Authelia

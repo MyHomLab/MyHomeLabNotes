@@ -8,8 +8,6 @@ tags:
   - Security
 ---
 
-I can write a markdown blog for Authelia. Here is an example:
-
 # Authelia: The Ultimate Authentication and Authorization Solution for Your Web Applications
 
 Do you want to protect your web applications from unauthorized access and enhance your online security? Do you want to log in once and access multiple web applications without entering your credentials again and again? Do you want to choose the best authentication method that suits your needs and preferences?
@@ -36,18 +34,5 @@ Authelia is not just another authentication and authorization server. It is a so
 - It is lightweight, fast, efficient, scalable, and secure by design. It has a compressed container size smaller than 20 megabytes and observed memory usage normally under 30 megabytes. It is written in Go and React, which makes it perform authorization policies and other backend tasks in milliseconds and load the login portal in 100 milliseconds. It has low CPU usage when idle or active, which saves electricity and reduces environmental impact. It is designed with high availability in mind, and can be deployed on platforms like Kubernetes with multiple parallel containers. It follows the best practices of security engineering, such as using secure protocols, encrypting sensitive data, hashing passwords, and applying security headers.
 - It is easy to install, configure, and use. It has a comprehensive documentation that guides you through the installation process on various platforms, such as Docker Compose, Kubernetes, or Bare Metal. It has a simple yet powerful configuration file that lets you customize every aspect of Authelia's behavior. It has a user-friendly web interface that allows you to log in, register, reset password, configure second-factor devices, and more.
 - It is open-source and community-driven. It is licensed under Apache License 2.0, which means you can use it for free for any purpose. It has an active GitHub repository where you can find the source code, report issues, request features, contribute code, or join discussions. It has a vibrant community of users and developers who support each other on Discord.
-
-## How to get started with Authelia?
-
-If you are interested in trying out Authelia for yourself, you can follow these steps:
-
-- Visit their website and read their documentation to learn more about Authelia's features and requirements.
-- Choose your preferred platform for deploying Authelia, such as Docker Compose, Kubernetes, or Bare Metal, and follow the installation instructions on their documentation.
-- Configure your reverse proxy to work with Authelia by following their examples for Nginx or Traefik on their documentation.
-- Configure your web applications to use Authelia as an authentication provider by following their examples for various applications on their documentation.
-- Enjoy your secure and convenient online experience with Authelia!
-
-## Conclusion
-
 
 
