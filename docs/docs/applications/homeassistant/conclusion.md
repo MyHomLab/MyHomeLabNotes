@@ -1,9 +1,8 @@
 ---
 sidebar_position: 4
 title: Conclusion
-id: -Conclusion
+id: Homeassistant-Conclusion
 tags:
   - Conclusion
+  - Homeassistant
 ---
-# Conclusion
-

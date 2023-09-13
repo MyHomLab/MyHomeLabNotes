@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: aprise-Config
+id: Aprise-Config
 tags:
   - Config
   - Configuration

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: -Install
+id: Statping-Install
 tags:
   - Installation
   - Docker

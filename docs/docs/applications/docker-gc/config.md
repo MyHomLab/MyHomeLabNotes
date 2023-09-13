@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: Docker-GC-Config
+id: Docker-gc-Config
 tags:
   - Config
   - Configuration

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: aprise-Install
+id: Aprise-Install
 tags:
   - Installation
   - Docker

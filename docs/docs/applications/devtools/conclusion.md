@@ -1,9 +1,8 @@
 ---
 sidebar_position: 4
 title: Conclusion
-id: -Conclusion
+id: Devtools-Conclusion
 tags:
   - Conclusion
+  - Devtools
 ---
-# Conclusion
-

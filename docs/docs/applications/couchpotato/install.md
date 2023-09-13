@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: CouchPotato-Install
+id: Couchpotato-Install
 tags:
   - Installation
   - Docker

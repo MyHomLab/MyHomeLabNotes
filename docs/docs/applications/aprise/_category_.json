@@ -1,8 +1,1 @@
-{
-  "label": "Aprise",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "aprise"
-  }
-}
+{  "label": "Aprise",  "position": 1,  "link": {    "type": "generated-index",  "description": "Aprise"  }}

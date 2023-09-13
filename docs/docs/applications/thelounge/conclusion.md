@@ -1,9 +1,8 @@
 ---
 sidebar_position: 4
 title: Conclusion
-id: -Conclusion
+id: Thelounge-Conclusion
 tags:
   - Conclusion
+  - Thelounge
 ---
-# Conclusion
-

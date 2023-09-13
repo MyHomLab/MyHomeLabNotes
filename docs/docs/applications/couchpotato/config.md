@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: CouchPotato-Config
+id: Couchpotato-Config
 tags:
   - Config
   - Configuration

@@ -1,9 +1,7 @@
 ---
 sidebar_position: 1
 title: Introduction
-id: Docker-GC-Introduction
+id: Docker-gc-Introduction
 tags:
   - Introduction
 ---
-
-

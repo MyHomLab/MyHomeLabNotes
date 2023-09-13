@@ -1,8 +1,1 @@
-{
-  "label": "",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": ""
-  }
-}
+{  "label": "Jackett",  "position": 42,  "link": {    "type": "generated-index",  "description": "Jackett"  }}

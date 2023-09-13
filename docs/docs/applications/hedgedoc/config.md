@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: -Config
+id: Hedgedoc-Config
 tags:
   - Config
   - Configuration

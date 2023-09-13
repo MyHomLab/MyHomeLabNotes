@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: CAdvisor-Config
+id: Cadvisor-Config
 tags:
   - Config
   - Configuration

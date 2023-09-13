@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: CAdvisor-Install
+id: Cadvisor-Install
 tags:
   - Installation
   - Docker

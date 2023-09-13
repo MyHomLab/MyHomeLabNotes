@@ -1,9 +1,7 @@
 ---
 sidebar_position: 1
 title: Introduction
-id: -Introduction
+id: Wallabag-Introduction
 tags:
   - Introduction
 ---
-
-

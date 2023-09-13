@@ -1,8 +1,1 @@
-{
-  "label": "",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": ""
-  }
-}
+{  "label": "Wireguard",  "position": 85,  "link": {    "type": "generated-index",  "description": "Wireguard"  }}

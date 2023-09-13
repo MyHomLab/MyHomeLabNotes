@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: Docker-GC-Install
+id: Docker-gc-Install
 tags:
   - Installation
   - Docker

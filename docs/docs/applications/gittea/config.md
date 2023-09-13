@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: -Config
+id: Gittea-Config
 tags:
   - Config
   - Configuration

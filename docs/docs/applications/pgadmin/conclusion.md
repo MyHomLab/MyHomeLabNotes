@@ -1,9 +1,8 @@
 ---
 sidebar_position: 4
 title: Conclusion
-id: -Conclusion
+id: Pgadmin-Conclusion
 tags:
   - Conclusion
+  - Pgadmin
 ---
-# Conclusion
-

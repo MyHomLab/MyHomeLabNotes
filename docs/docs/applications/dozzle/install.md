@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: -Install
+id: Dozzle-Install
 tags:
   - Installation
   - Docker

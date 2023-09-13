@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Config
-id: -Config
+id: Booksonic-Config
 tags:
   - Config
   - Configuration

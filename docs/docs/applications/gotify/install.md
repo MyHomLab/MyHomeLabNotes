@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Installation
-id: -Install
+id: Gotify-Install
 tags:
   - Installation
   - Docker
