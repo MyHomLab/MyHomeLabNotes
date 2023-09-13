@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[85945],{74456:o=>{o.exports=JSON.parse('{"label":"Booksonic","permalink":"/docs/tags/booksonic","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/booksonic/Booksonic-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/booksonic/Booksonic-Conclusion"}]}')}}]);

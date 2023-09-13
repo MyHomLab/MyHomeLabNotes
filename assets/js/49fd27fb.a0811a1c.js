@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[61021],{69140:s=>{s.exports=JSON.parse('{"label":"Plex","permalink":"/docs/tags/plex","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/plex/Plex-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/plex/Plex-Conclusion"}]}')}}]);

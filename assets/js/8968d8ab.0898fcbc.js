@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1e4],{65072:o=>{o.exports=JSON.parse('{"label":"Netbootxyz","permalink":"/docs/tags/netbootxyz","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/netbootxyz/Netbootxyz-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/netbootxyz/Netbootxyz-Conclusion"}]}')}}]);

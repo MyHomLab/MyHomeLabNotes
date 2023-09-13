@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[66157],{64732:s=>{s.exports=JSON.parse('{"label":"Nzbget","permalink":"/docs/tags/nzbget","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/nzbget/Nzbget-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/nzbget/Nzbget-Conclusion"}]}')}}]);

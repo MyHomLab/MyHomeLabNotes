@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[81809],{30367:s=>{s.exports=JSON.parse('{"label":"Phpmyadmin","permalink":"/docs/tags/phpmyadmin","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/phpmyadmin/Phpmyadmin-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/phpmyadmin/Phpmyadmin-Conclusion"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[99085],{83522:s=>{s.exports=JSON.parse('{"label":"Krusader","permalink":"/docs/tags/krusader","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/krusader/Krusader-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/krusader/Krusader-Conclusion"}]}')}}]);

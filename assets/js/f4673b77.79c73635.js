@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[35602],{57801:e=>{e.exports=JSON.parse('{"label":"Mealie","permalink":"/docs/tags/mealie","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/mealie/Mealie-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/mealie/Mealie-Conclusion"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[75486],{12139:o=>{o.exports=JSON.parse('{"label":"Portainer","permalink":"/docs/tags/portainer","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/portainer/Portainer-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/portainer/Portainer-Conclusion"}]}')}}]);

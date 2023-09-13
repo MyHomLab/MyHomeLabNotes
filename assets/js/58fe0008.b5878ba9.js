@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[78918],{2808:e=>{e.exports=JSON.parse('{"label":"Docker-Config","permalink":"/docs/tags/docker-config","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/authelia/Authelia-Docker","title":"Docker","description":"","permalink":"/docs/applications/authelia/Authelia-Docker"}]}')}}]);

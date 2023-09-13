@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[14292],{62147:e=>{e.exports=JSON.parse('{"title":"General","description":"Awesome Home Server","slug":"/category/general","permalink":"/docs/category/general","navigation":{"previous":{"title":"Introduction","permalink":"/docs/intro"},"next":{"title":"Docker","permalink":"/docs/category/docker"}}}')}}]);

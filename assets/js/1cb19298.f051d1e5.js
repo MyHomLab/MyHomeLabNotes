@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3617],{39978:a=>{a.exports=JSON.parse('{"label":"Netdata","permalink":"/docs/tags/netdata","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/netdata/Netdata-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/netdata/Netdata-Conclusion"}]}')}}]);

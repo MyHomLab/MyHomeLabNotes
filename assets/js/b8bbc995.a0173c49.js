@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[85205],{32226:a=>{a.exports=JSON.parse('{"label":"Handbrake","permalink":"/docs/tags/handbrake","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/handbrake/Handbrake-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/handbrake/Handbrake-Conclusion"}]}')}}]);

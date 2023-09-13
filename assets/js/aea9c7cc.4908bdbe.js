@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[14841],{73996:e=>{e.exports=JSON.parse('{"label":"Librespeed","permalink":"/docs/tags/librespeed","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/librespeed/Librespeed-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/librespeed/Librespeed-Conclusion"}]}')}}]);
