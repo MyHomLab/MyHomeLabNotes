@@ -1,8 +1,8 @@
 ---
-sidebar_position: 7
+sidebar_position: 6
 title: budge
 id: budge
-position: 7
+position: 6
 tags:
   - Introduction
   - budge

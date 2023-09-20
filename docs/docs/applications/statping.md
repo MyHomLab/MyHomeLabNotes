@@ -1,8 +1,8 @@
 ---
-sidebar_position: 76
+sidebar_position: 75
 title: statping
 id: statping
-position: 76
+position: 75
 tags:
   - Introduction
   - statping

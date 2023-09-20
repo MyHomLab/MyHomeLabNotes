@@ -1,8 +1,8 @@
 ---
-sidebar_position: 73
+sidebar_position: 72
 title: rsync
 id: rsync
-position: 73
+position: 72
 tags:
   - Introduction
   - rsync

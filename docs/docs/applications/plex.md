@@ -1,8 +1,8 @@
 ---
-sidebar_position: 69
+sidebar_position: 68
 title: plex
 id: plex
-position: 69
+position: 68
 tags:
   - Introduction
   - plex

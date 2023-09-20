@@ -1,8 +1,8 @@
 ---
-sidebar_position: 20
+sidebar_position: 19
 title: docker-gc
 id: docker-gc
-position: 20
+position: 19
 tags:
   - Introduction
   - docker-gc

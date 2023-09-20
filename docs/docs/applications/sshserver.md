@@ -1,8 +1,8 @@
 ---
-sidebar_position: 75
+sidebar_position: 74
 title: sshserver
 id: sshserver
-position: 75
+position: 74
 tags:
   - Introduction
   - sshserver

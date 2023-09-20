@@ -1,8 +1,8 @@
 ---
-sidebar_position: 36
+sidebar_position: 35
 title: hedgedoc
 id: hedgedoc
-position: 36
+position: 35
 tags:
   - Introduction
   - hedgedoc

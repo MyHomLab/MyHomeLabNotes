@@ -1,8 +1,8 @@
 ---
-sidebar_position: 17
+sidebar_position: 16
 title: devtools
 id: devtools
-position: 17
+position: 16
 tags:
   - Introduction
   - devtools

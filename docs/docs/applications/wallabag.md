@@ -1,8 +1,8 @@
 ---
-sidebar_position: 81
+sidebar_position: 80
 title: wallabag
 id: wallabag
-position: 81
+position: 80
 tags:
   - Introduction
   - wallabag

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 title: cadvisor
 id: cadvisor
-position: 8
+position: 7
 tags:
   - Introduction
   - cadvisor

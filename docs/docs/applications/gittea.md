@@ -1,8 +1,8 @@
 ---
-sidebar_position: 28
+sidebar_position: 27
 title: gittea
 id: gittea
-position: 28
+position: 27
 tags:
   - Introduction
   - gittea

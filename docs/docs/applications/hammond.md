@@ -1,8 +1,8 @@
 ---
-sidebar_position: 34
+sidebar_position: 33
 title: hammond
 id: hammond
-position: 34
+position: 33
 tags:
   - Introduction
   - hammond

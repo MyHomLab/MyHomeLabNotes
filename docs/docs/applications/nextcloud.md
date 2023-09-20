@@ -1,8 +1,8 @@
 ---
-sidebar_position: 60
+sidebar_position: 59
 title: nextcloud
 id: nextcloud
-position: 60
+position: 59
 tags:
   - Introduction
   - nextcloud

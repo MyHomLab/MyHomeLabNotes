@@ -1,8 +1,8 @@
 ---
-sidebar_position: 40
+sidebar_position: 39
 title: homebridge
 id: homebridge
-position: 40
+position: 39
 tags:
   - Introduction
   - homebridge

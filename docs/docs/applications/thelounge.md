@@ -1,8 +1,8 @@
 ---
-sidebar_position: 78
+sidebar_position: 77
 title: thelounge
 id: thelounge
-position: 78
+position: 77
 tags:
   - Introduction
   - thelounge

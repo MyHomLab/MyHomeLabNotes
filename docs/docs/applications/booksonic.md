@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 title: booksonic
 id: booksonic
-position: 6
+position: 5
 tags:
   - Introduction
   - booksonic

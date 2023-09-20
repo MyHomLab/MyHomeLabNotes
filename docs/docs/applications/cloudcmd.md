@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 title: cloudcmd
 id: cloudcmd
-position: 10
+position: 9
 tags:
   - Introduction
   - cloudcmd

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 title: code
 id: code
-position: 11
+position: 10
 tags:
   - Introduction
   - code

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 title: beaver
 id: beaver
-position: 4
+position: 3
 tags:
   - Introduction
   - beaver

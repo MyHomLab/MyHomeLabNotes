@@ -1,8 +1,8 @@
 ---
-sidebar_position: 67
+sidebar_position: 66
 title: phpmyadmin
 id: phpmyadmin
-position: 67
+position: 66
 tags:
   - Introduction
   - phpmyadmin

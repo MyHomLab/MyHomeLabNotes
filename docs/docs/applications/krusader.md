@@ -1,8 +1,8 @@
 ---
-sidebar_position: 48
+sidebar_position: 47
 title: krusader
 id: krusader
-position: 48
+position: 47
 tags:
   - Introduction
   - krusader

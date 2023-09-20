@@ -1,8 +1,8 @@
 ---
-sidebar_position: 54
+sidebar_position: 53
 title: miniflux
 id: miniflux
-position: 54
+position: 53
 tags:
   - Introduction
   - miniflux

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 29
+sidebar_position: 28
 title: glances
 id: glances
-position: 29
+position: 28
 tags:
   - Introduction
   - glances

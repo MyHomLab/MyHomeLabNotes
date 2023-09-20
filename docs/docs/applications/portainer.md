@@ -1,8 +1,8 @@
 ---
-sidebar_position: 70
+sidebar_position: 69
 title: portainer
 id: portainer
-position: 70
+position: 69
 tags:
   - Introduction
   - portainer

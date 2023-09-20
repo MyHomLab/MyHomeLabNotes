@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: bazarr
 id: bazarr
-position: 3
+position: 2
 tags:
   - Introduction
   - bazarr

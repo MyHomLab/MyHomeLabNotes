@@ -1,8 +1,8 @@
 ---
-sidebar_position: 12
+sidebar_position: 11
 title: cops
 id: cops
-position: 12
+position: 11
 tags:
   - Introduction
   - cops

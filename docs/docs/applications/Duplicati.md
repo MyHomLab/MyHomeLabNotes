@@ -1,8 +1,8 @@
 ---
-sidebar_position: 25
+sidebar_position: 24
 title: Duplicati
 id: Duplicati
-position: 25
+position: 24
 tags:
   - Introduction
   - Duplicati

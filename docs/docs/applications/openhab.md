@@ -1,8 +1,8 @@
 ---
-sidebar_position: 63
+sidebar_position: 62
 title: openhab
 id: openhab
-position: 63
+position: 62
 tags:
   - Introduction
   - openhab

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 22
+sidebar_position: 21
 title: doublecommander
 id: doublecommander
-position: 22
+position: 21
 tags:
   - Introduction
   - doublecommander

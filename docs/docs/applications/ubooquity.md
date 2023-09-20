@@ -1,8 +1,8 @@
 ---
-sidebar_position: 80
+sidebar_position: 79
 title: ubooquity
 id: ubooquity
-position: 80
+position: 79
 tags:
   - Introduction
   - ubooquity

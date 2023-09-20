@@ -1,8 +1,8 @@
 ---
-sidebar_position: 64
+sidebar_position: 63
 title: organizr
 id: organizr
-position: 64
+position: 63
 tags:
   - Introduction
   - organizr

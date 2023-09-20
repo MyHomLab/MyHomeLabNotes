@@ -1,8 +1,8 @@
 ---
-sidebar_position: 65
+sidebar_position: 64
 title: pgadmin
 id: pgadmin
-position: 65
+position: 64
 tags:
   - Introduction
   - pgadmin

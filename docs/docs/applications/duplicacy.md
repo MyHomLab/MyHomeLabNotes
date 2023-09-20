@@ -1,8 +1,8 @@
 ---
-sidebar_position: 24
+sidebar_position: 23
 title: duplicacy
 id: duplicacy
-position: 24
+position: 23
 tags:
   - Introduction
   - duplicacy

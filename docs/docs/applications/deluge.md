@@ -1,8 +1,8 @@
 ---
-sidebar_position: 16
+sidebar_position: 15
 title: deluge
 id: deluge
-position: 16
+position: 15
 tags:
   - Introduction
   - deluge

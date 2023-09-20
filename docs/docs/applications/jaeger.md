@@ -1,8 +1,8 @@
 ---
-sidebar_position: 43
+sidebar_position: 42
 title: jaeger
 id: jaeger
-position: 43
+position: 42
 tags:
   - Introduction
   - jaeger

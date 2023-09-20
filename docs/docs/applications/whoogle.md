@@ -1,8 +1,8 @@
 ---
-sidebar_position: 83
+sidebar_position: 82
 title: whoogle
 id: whoogle
-position: 83
+position: 82
 tags:
   - Introduction
   - whoogle

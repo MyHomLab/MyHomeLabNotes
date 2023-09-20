@@ -1,8 +1,8 @@
 ---
-sidebar_position: 85
+sidebar_position: 84
 title: wireguard
 id: wireguard
-position: 85
+position: 84
 tags:
   - Introduction
   - wireguard

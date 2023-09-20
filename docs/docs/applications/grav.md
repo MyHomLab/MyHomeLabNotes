@@ -1,8 +1,8 @@
 ---
-sidebar_position: 32
+sidebar_position: 31
 title: grav
 id: grav
-position: 32
+position: 31
 tags:
   - Introduction
   - grav

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 71
+sidebar_position: 70
 title: prowlarr
 id: prowlarr
-position: 71
+position: 70
 tags:
   - Introduction
   - prowlarr
