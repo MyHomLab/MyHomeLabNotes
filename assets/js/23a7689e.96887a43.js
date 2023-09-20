@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8629],{7881:e=>{e.exports=JSON.parse('{"label":"Beaver","permalink":"/docs/tags/beaver","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Beaver","title":"Beaver","description":"Beaver Logo","permalink":"/docs/applications/Beaver"}]}')}}]);
