@@ -1,11 +1,11 @@
 ---
-sidebar_position: 57
-title: netbootxyz
-id: netbootxyz
-position: 57
+sidebar_position: 58
+title: Netbootxyz
+id: Netbootxyz
+position: 58
 tags:
   - Introduction
-  - netbootxyz
+  - Netbootxyz
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 11
-title: cops
-id: cops
-position: 11
+sidebar_position: 12
+title: Cops
+id: Cops
+position: 12
 tags:
   - Introduction
-  - cops
+  - Cops
   - docker
   - docker-compose
   - tips

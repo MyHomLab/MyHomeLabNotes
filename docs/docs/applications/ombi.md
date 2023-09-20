@@ -1,11 +1,11 @@
 ---
-sidebar_position: 61
-title: ombi
-id: ombi
-position: 61
+sidebar_position: 62
+title: Ombi
+id: Ombi
+position: 62
 tags:
   - Introduction
-  - ombi
+  - Ombi
   - docker
   - docker-compose
   - tips

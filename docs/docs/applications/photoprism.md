@@ -1,11 +1,11 @@
 ---
-sidebar_position: 65
-title: photoprism
-id: photoprism
-position: 65
+sidebar_position: 66
+title: Photoprism
+id: Photoprism
+position: 66
 tags:
   - Introduction
-  - photoprism
+  - Photoprism
   - docker
   - docker-compose
   - tips

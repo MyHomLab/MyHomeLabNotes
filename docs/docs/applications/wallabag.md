@@ -1,11 +1,11 @@
 ---
-sidebar_position: 80
-title: wallabag
-id: wallabag
-position: 80
+sidebar_position: 81
+title: Wallabag
+id: Wallabag
+position: 81
 tags:
   - Introduction
-  - wallabag
+  - Wallabag
   - docker
   - docker-compose
   - tips

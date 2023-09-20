@@ -1,11 +1,11 @@
 ---
-sidebar_position: 34
-title: handbrake
-id: handbrake
-position: 34
+sidebar_position: 35
+title: Handbrake
+id: Handbrake
+position: 35
 tags:
   - Introduction
-  - handbrake
+  - Handbrake
   - docker
   - docker-compose
   - tips

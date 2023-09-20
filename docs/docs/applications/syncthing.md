@@ -1,11 +1,11 @@
 ---
-sidebar_position: 76
-title: syncthing
-id: syncthing
-position: 76
+sidebar_position: 77
+title: Syncthing
+id: Syncthing
+position: 77
 tags:
   - Introduction
-  - syncthing
+  - Syncthing
   - docker
   - docker-compose
   - tips

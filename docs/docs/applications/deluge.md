@@ -1,11 +1,11 @@
 ---
-sidebar_position: 15
-title: deluge
-id: deluge
-position: 15
+sidebar_position: 16
+title: Deluge
+id: Deluge
+position: 16
 tags:
   - Introduction
-  - deluge
+  - Deluge
   - docker
   - docker-compose
   - tips

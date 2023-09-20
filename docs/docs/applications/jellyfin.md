@@ -1,11 +1,11 @@
 ---
-sidebar_position: 43
-title: jellyfin
-id: jellyfin
-position: 43
+sidebar_position: 44
+title: Jellyfin
+id: Jellyfin
+position: 44
 tags:
   - Introduction
-  - jellyfin
+  - Jellyfin
   - docker
   - docker-compose
   - tips

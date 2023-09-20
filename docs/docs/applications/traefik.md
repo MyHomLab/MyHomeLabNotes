@@ -1,11 +1,11 @@
 ---
-sidebar_position: 78
-title: traefik
-id: traefik
-position: 78
+sidebar_position: 79
+title: Traefik
+id: Traefik
+position: 79
 tags:
   - Introduction
-  - traefik
+  - Traefik
   - docker
   - docker-compose
   - tips

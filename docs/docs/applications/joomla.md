@@ -1,11 +1,11 @@
 ---
-sidebar_position: 44
-title: joomla
-id: joomla
-position: 44
+sidebar_position: 45
+title: Joomla
+id: Joomla
+position: 45
 tags:
   - Introduction
-  - joomla
+  - Joomla
   - docker
   - docker-compose
   - tips

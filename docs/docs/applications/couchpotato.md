@@ -1,11 +1,11 @@
 ---
-sidebar_position: 12
-title: couchpotato
-id: couchpotato
-position: 12
+sidebar_position: 13
+title: Couchpotato
+id: Couchpotato
+position: 13
 tags:
   - Introduction
-  - couchpotato
+  - Couchpotato
   - docker
   - docker-compose
   - tips

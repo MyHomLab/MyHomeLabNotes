@@ -1,11 +1,11 @@
 ---
-sidebar_position: 2
-title: bazarr
-id: bazarr
-position: 2
+sidebar_position: 3
+title: Bazarr
+id: Bazarr
+position: 3
 tags:
   - Introduction
-  - bazarr
+  - Bazarr
   - docker
   - docker-compose
   - tips

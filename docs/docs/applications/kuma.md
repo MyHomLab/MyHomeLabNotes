@@ -1,11 +1,11 @@
 ---
-sidebar_position: 48
-title: kuma
-id: kuma
-position: 48
+sidebar_position: 49
+title: Kuma
+id: Kuma
+position: 49
 tags:
   - Introduction
-  - kuma
+  - Kuma
   - docker
   - docker-compose
   - tips

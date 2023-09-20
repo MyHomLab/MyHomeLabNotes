@@ -1,11 +1,11 @@
 ---
-sidebar_position: 83
-title: wikijs
-id: wikijs
-position: 83
+sidebar_position: 84
+title: Wikijs
+id: Wikijs
+position: 84
 tags:
   - Introduction
-  - wikijs
+  - Wikijs
   - docker
   - docker-compose
   - tips

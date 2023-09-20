@@ -1,11 +1,11 @@
 ---
-sidebar_position: 62
-title: openhab
-id: openhab
-position: 62
+sidebar_position: 63
+title: Openhab
+id: Openhab
+position: 63
 tags:
   - Introduction
-  - openhab
+  - Openhab
   - docker
   - docker-compose
   - tips

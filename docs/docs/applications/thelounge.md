@@ -1,11 +1,11 @@
 ---
-sidebar_position: 77
-title: thelounge
-id: thelounge
-position: 77
+sidebar_position: 78
+title: Thelounge
+id: Thelounge
+position: 78
 tags:
   - Introduction
-  - thelounge
+  - Thelounge
   - docker
   - docker-compose
   - tips

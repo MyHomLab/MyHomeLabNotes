@@ -1,11 +1,11 @@
 ---
-sidebar_position: 73
-title: spotify
-id: spotify
-position: 73
+sidebar_position: 74
+title: Spotify
+id: Spotify
+position: 74
 tags:
   - Introduction
-  - spotify
+  - Spotify
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 31
-title: grav
-id: grav
-position: 31
+sidebar_position: 32
+title: Grav
+id: Grav
+position: 32
 tags:
   - Introduction
-  - grav
+  - Grav
   - docker
   - docker-compose
   - tips

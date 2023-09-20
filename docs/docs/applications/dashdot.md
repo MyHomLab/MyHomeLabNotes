@@ -1,11 +1,11 @@
 ---
-sidebar_position: 13
-title: dashdot
-id: dashdot
-position: 13
+sidebar_position: 14
+title: Dashdot
+id: Dashdot
+position: 14
 tags:
   - Introduction
-  - dashdot
+  - Dashdot
   - docker
   - docker-compose
   - tips

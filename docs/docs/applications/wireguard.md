@@ -1,11 +1,11 @@
 ---
-sidebar_position: 84
-title: wireguard
-id: wireguard
-position: 84
+sidebar_position: 85
+title: Wireguard
+id: Wireguard
+position: 85
 tags:
   - Introduction
-  - wireguard
+  - Wireguard
   - docker
   - docker-compose
   - tips

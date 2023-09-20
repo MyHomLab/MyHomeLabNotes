@@ -1,11 +1,11 @@
 ---
-sidebar_position: 55
-title: n8n
-id: n8n
-position: 55
+sidebar_position: 56
+title: N8n
+id: N8n
+position: 56
 tags:
   - Introduction
-  - n8n
+  - N8n
   - docker
   - docker-compose
   - tips

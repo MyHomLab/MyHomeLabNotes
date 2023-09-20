@@ -1,11 +1,11 @@
 ---
-sidebar_position: 7
-title: cadvisor
-id: cadvisor
-position: 7
+sidebar_position: 8
+title: Cadvisor
+id: Cadvisor
+position: 8
 tags:
   - Introduction
-  - cadvisor
+  - Cadvisor
   - docker
   - docker-compose
   - tips

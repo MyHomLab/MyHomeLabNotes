@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: aprise
-id: aprise
+title: Aprise
+id: Aprise
 position: 1
 tags:
   - Introduction
-  - aprise
+  - Aprise
   - docker
   - docker-compose
   - tips

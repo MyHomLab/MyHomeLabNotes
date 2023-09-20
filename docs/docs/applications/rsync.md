@@ -1,11 +1,11 @@
 ---
-sidebar_position: 72
-title: rsync
-id: rsync
-position: 72
+sidebar_position: 73
+title: Rsync
+id: Rsync
+position: 73
 tags:
   - Introduction
-  - rsync
+  - Rsync
   - docker
   - docker-compose
   - tips

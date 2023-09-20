@@ -1,11 +1,11 @@
 ---
-sidebar_position: 40
-title: homepage
-id: homepage
-position: 40
+sidebar_position: 41
+title: Homepage
+id: Homepage
+position: 41
 tags:
   - Introduction
-  - homepage
+  - Homepage
   - docker
   - docker-compose
   - tips

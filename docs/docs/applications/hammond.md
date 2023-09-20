@@ -1,11 +1,11 @@
 ---
-sidebar_position: 33
-title: hammond
-id: hammond
-position: 33
+sidebar_position: 34
+title: Hammond
+id: Hammond
+position: 34
 tags:
   - Introduction
-  - hammond
+  - Hammond
   - docker
   - docker-compose
   - tips

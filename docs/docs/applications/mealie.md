@@ -1,11 +1,11 @@
 ---
-sidebar_position: 52
-title: mealie
-id: mealie
-position: 52
+sidebar_position: 53
+title: Mealie
+id: Mealie
+position: 53
 tags:
   - Introduction
-  - mealie
+  - Mealie
   - docker
   - docker-compose
   - tips

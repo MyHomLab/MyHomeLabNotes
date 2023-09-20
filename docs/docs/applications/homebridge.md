@@ -1,11 +1,11 @@
 ---
-sidebar_position: 39
-title: homebridge
-id: homebridge
-position: 39
+sidebar_position: 40
+title: Homebridge
+id: Homebridge
+position: 40
 tags:
   - Introduction
-  - homebridge
+  - Homebridge
   - docker
   - docker-compose
   - tips

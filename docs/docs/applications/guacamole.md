@@ -1,11 +1,11 @@
 ---
-sidebar_position: 32
-title: guacamole
-id: guacamole
-position: 32
+sidebar_position: 33
+title: Guacamole
+id: Guacamole
+position: 33
 tags:
   - Introduction
-  - guacamole
+  - Guacamole
   - docker
   - docker-compose
   - tips

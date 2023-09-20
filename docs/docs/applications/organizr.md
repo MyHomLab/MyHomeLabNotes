@@ -1,11 +1,11 @@
 ---
-sidebar_position: 63
-title: organizr
-id: organizr
-position: 63
+sidebar_position: 64
+title: Organizr
+id: Organizr
+position: 64
 tags:
   - Introduction
-  - organizr
+  - Organizr
   - docker
   - docker-compose
   - tips

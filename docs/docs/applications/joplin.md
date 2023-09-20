@@ -1,11 +1,11 @@
 ---
-sidebar_position: 45
-title: joplin
-id: joplin
-position: 45
+sidebar_position: 46
+title: Joplin
+id: Joplin
+position: 46
 tags:
   - Introduction
-  - joplin
+  - Joplin
   - docker
   - docker-compose
   - tips

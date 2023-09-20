@@ -1,11 +1,11 @@
 ---
-sidebar_position: 56
-title: navidrome
-id: navidrome
-position: 56
+sidebar_position: 57
+title: Navidrome
+id: Navidrome
+position: 57
 tags:
   - Introduction
-  - navidrome
+  - Navidrome
   - docker
   - docker-compose
   - tips

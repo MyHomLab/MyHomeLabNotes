@@ -1,11 +1,11 @@
 ---
-sidebar_position: 10
-title: code
-id: code
-position: 10
+sidebar_position: 11
+title: Code
+id: Code
+position: 11
 tags:
   - Introduction
-  - code
+  - Code
   - docker
   - docker-compose
   - tips

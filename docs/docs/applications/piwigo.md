@@ -1,11 +1,11 @@
 ---
-sidebar_position: 67
-title: piwigo
-id: piwigo
-position: 67
+sidebar_position: 68
+title: Piwigo
+id: Piwigo
+position: 68
 tags:
   - Introduction
-  - piwigo
+  - Piwigo
   - docker
   - docker-compose
   - tips

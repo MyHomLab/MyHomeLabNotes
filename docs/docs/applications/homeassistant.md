@@ -1,11 +1,11 @@
 ---
-sidebar_position: 37
-title: homeassistant
-id: homeassistant
-position: 37
+sidebar_position: 38
+title: Homeassistant
+id: Homeassistant
+position: 38
 tags:
   - Introduction
-  - homeassistant
+  - Homeassistant
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 3
-title: beaver
-id: beaver
-position: 3
+sidebar_position: 4
+title: Beaver
+id: Beaver
+position: 4
 tags:
   - Introduction
-  - beaver
+  - Beaver
   - docker
   - docker-compose
   - tips

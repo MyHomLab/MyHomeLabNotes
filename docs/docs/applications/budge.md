@@ -1,11 +1,11 @@
 ---
-sidebar_position: 6
-title: budge
-id: budge
-position: 6
+sidebar_position: 7
+title: Budge
+id: Budge
+position: 7
 tags:
   - Introduction
-  - budge
+  - Budge
   - docker
   - docker-compose
   - tips

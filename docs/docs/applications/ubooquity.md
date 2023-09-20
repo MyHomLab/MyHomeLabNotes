@@ -1,11 +1,11 @@
 ---
-sidebar_position: 79
-title: ubooquity
-id: ubooquity
-position: 79
+sidebar_position: 80
+title: Ubooquity
+id: Ubooquity
+position: 80
 tags:
   - Introduction
-  - ubooquity
+  - Ubooquity
   - docker
   - docker-compose
   - tips

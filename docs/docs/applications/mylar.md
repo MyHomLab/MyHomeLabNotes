@@ -1,11 +1,11 @@
 ---
-sidebar_position: 54
-title: mylar
-id: mylar
-position: 54
+sidebar_position: 55
+title: Mylar
+id: Mylar
+position: 55
 tags:
   - Introduction
-  - mylar
+  - Mylar
   - docker
   - docker-compose
   - tips

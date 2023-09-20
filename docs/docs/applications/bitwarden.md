@@ -1,11 +1,11 @@
 ---
-sidebar_position: 4
-title: bitwarden
-id: bitwarden
-position: 4
+sidebar_position: 5
+title: Bitwarden
+id: Bitwarden
+position: 5
 tags:
   - Introduction
-  - bitwarden
+  - Bitwarden
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 74
-title: sshserver
-id: sshserver
-position: 74
+sidebar_position: 75
+title: Sshserver
+id: Sshserver
+position: 75
 tags:
   - Introduction
-  - sshserver
+  - Sshserver
   - docker
   - docker-compose
   - tips

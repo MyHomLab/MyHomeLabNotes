@@ -1,11 +1,11 @@
 ---
-sidebar_position: 25
-title: elk
-id: elk
-position: 25
+sidebar_position: 26
+title: Elk
+id: Elk
+position: 26
 tags:
   - Introduction
-  - elk
+  - Elk
   - docker
   - docker-compose
   - tips

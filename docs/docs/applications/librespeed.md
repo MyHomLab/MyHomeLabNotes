@@ -1,11 +1,11 @@
 ---
-sidebar_position: 49
-title: librespeed
-id: librespeed
-position: 49
+sidebar_position: 50
+title: Librespeed
+id: Librespeed
+position: 50
 tags:
   - Introduction
-  - librespeed
+  - Librespeed
   - docker
   - docker-compose
   - tips

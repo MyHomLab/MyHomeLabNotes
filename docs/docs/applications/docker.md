@@ -1,11 +1,11 @@
 ---
-sidebar_position: 18
-title: docker
-id: docker
-position: 18
+sidebar_position: 19
+title: Docker
+id: Docker
+position: 19
 tags:
   - Introduction
-  - docker
+  - Docker
   - docker
   - docker-compose
   - tips

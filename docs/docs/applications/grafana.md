@@ -1,11 +1,11 @@
 ---
-sidebar_position: 30
-title: grafana
-id: grafana
-position: 30
+sidebar_position: 31
+title: Grafana
+id: Grafana
+position: 31
 tags:
   - Introduction
-  - grafana
+  - Grafana
   - docker
   - docker-compose
   - tips

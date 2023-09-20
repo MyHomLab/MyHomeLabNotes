@@ -1,11 +1,11 @@
 ---
-sidebar_position: 66
-title: phpmyadmin
-id: phpmyadmin
-position: 66
+sidebar_position: 67
+title: Phpmyadmin
+id: Phpmyadmin
+position: 67
 tags:
   - Introduction
-  - phpmyadmin
+  - Phpmyadmin
   - docker
   - docker-compose
   - tips

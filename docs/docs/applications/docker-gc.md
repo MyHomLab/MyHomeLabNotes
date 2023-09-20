@@ -1,11 +1,11 @@
 ---
-sidebar_position: 19
-title: docker-gc
-id: docker-gc
-position: 19
+sidebar_position: 20
+title: Docker-gc
+id: Docker-gc
+position: 20
 tags:
   - Introduction
-  - docker-gc
+  - Docker-gc
   - docker
   - docker-compose
   - tips

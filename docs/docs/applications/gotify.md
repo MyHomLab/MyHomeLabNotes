@@ -1,11 +1,11 @@
 ---
-sidebar_position: 29
-title: gotify
-id: gotify
-position: 29
+sidebar_position: 30
+title: Gotify
+id: Gotify
+position: 30
 tags:
   - Introduction
-  - gotify
+  - Gotify
   - docker
   - docker-compose
   - tips

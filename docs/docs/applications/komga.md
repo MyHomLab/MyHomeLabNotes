@@ -1,11 +1,11 @@
 ---
-sidebar_position: 46
-title: komga
-id: komga
-position: 46
+sidebar_position: 47
+title: Komga
+id: Komga
+position: 47
 tags:
   - Introduction
-  - komga
+  - Komga
   - docker
   - docker-compose
   - tips

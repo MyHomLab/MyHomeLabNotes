@@ -1,11 +1,11 @@
 ---
-sidebar_position: 68
-title: plex
-id: plex
-position: 68
+sidebar_position: 69
+title: Plex
+id: Plex
+position: 69
 tags:
   - Introduction
-  - plex
+  - Plex
   - docker
   - docker-compose
   - tips

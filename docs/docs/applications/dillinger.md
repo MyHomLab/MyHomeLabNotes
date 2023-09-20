@@ -1,11 +1,11 @@
 ---
-sidebar_position: 17
-title: dillinger
-id: dillinger
-position: 17
+sidebar_position: 18
+title: Dillinger
+id: Dillinger
+position: 18
 tags:
   - Introduction
-  - dillinger
+  - Dillinger
   - docker
   - docker-compose
   - tips

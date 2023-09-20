@@ -1,11 +1,11 @@
 ---
-sidebar_position: 27
-title: gittea
-id: gittea
-position: 27
+sidebar_position: 28
+title: Gittea
+id: Gittea
+position: 28
 tags:
   - Introduction
-  - gittea
+  - Gittea
   - docker
   - docker-compose
   - tips

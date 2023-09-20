@@ -1,11 +1,11 @@
 ---
-sidebar_position: 53
-title: miniflux
-id: miniflux
-position: 53
+sidebar_position: 54
+title: Miniflux
+id: Miniflux
+position: 54
 tags:
   - Introduction
-  - miniflux
+  - Miniflux
   - docker
   - docker-compose
   - tips

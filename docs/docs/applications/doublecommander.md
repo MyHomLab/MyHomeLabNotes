@@ -1,11 +1,11 @@
 ---
-sidebar_position: 21
-title: doublecommander
-id: doublecommander
-position: 21
+sidebar_position: 22
+title: Doublecommander
+id: Doublecommander
+position: 22
 tags:
   - Introduction
-  - doublecommander
+  - Doublecommander
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 42
-title: jaeger
-id: jaeger
-position: 42
+sidebar_position: 43
+title: Jaeger
+id: Jaeger
+position: 43
 tags:
   - Introduction
-  - jaeger
+  - Jaeger
   - docker
   - docker-compose
   - tips

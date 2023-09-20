@@ -1,11 +1,11 @@
 ---
-sidebar_position: 41
-title: jackett
-id: jackett
-position: 41
+sidebar_position: 42
+title: Jackett
+id: Jackett
+position: 42
 tags:
   - Introduction
-  - jackett
+  - Jackett
   - docker
   - docker-compose
   - tips

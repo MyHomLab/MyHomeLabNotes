@@ -1,11 +1,11 @@
 ---
-sidebar_position: 38
-title: homebox
-id: homebox
-position: 38
+sidebar_position: 39
+title: Homebox
+id: Homebox
+position: 39
 tags:
   - Introduction
-  - homebox
+  - Homebox
   - docker
   - docker-compose
   - tips

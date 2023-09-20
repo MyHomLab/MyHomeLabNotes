@@ -1,11 +1,11 @@
 ---
-sidebar_position: 71
-title: pyload
-id: pyload
-position: 71
+sidebar_position: 72
+title: Pyload
+id: Pyload
+position: 72
 tags:
   - Introduction
-  - pyload
+  - Pyload
   - docker
   - docker-compose
   - tips

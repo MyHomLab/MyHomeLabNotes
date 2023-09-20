@@ -1,11 +1,11 @@
 ---
-sidebar_position: 26
-title: freshrss
-id: freshrss
-position: 26
+sidebar_position: 27
+title: Freshrss
+id: Freshrss
+position: 27
 tags:
   - Introduction
-  - freshrss
+  - Freshrss
   - docker
   - docker-compose
   - tips

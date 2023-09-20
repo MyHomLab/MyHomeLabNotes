@@ -1,11 +1,11 @@
 ---
-sidebar_position: 70
-title: prowlarr
-id: prowlarr
-position: 70
+sidebar_position: 71
+title: Prowlarr
+id: Prowlarr
+position: 71
 tags:
   - Introduction
-  - prowlarr
+  - Prowlarr
   - docker
   - docker-compose
   - tips

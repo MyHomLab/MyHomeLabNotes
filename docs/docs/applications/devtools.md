@@ -1,11 +1,11 @@
 ---
-sidebar_position: 16
-title: devtools
-id: devtools
-position: 16
+sidebar_position: 17
+title: Devtools
+id: Devtools
+position: 17
 tags:
   - Introduction
-  - devtools
+  - Devtools
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 8
-title: calibre
-id: calibre
-position: 8
+sidebar_position: 9
+title: Calibre
+id: Calibre
+position: 9
 tags:
   - Introduction
-  - calibre
+  - Calibre
   - docker
   - docker-compose
   - tips

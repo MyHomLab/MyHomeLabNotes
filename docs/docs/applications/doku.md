@@ -1,11 +1,11 @@
 ---
-sidebar_position: 20
-title: doku
-id: doku
-position: 20
+sidebar_position: 21
+title: Doku
+id: Doku
+position: 21
 tags:
   - Introduction
-  - doku
+  - Doku
   - docker
   - docker-compose
   - tips

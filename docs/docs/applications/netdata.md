@@ -1,11 +1,11 @@
 ---
-sidebar_position: 58
-title: netdata
-id: netdata
-position: 58
+sidebar_position: 59
+title: Netdata
+id: Netdata
+position: 59
 tags:
   - Introduction
-  - netdata
+  - Netdata
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 22
-title: dozzle
-id: dozzle
-position: 22
+sidebar_position: 23
+title: Dozzle
+id: Dozzle
+position: 23
 tags:
   - Introduction
-  - dozzle
+  - Dozzle
   - docker
   - docker-compose
   - tips

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 82
-title: whoogle
-id: whoogle
-position: 82
+sidebar_position: 83
+title: Whoogle
+id: Whoogle
+position: 83
 tags:
   - Introduction
-  - whoogle
+  - Whoogle
   - docker
   - docker-compose
   - tips

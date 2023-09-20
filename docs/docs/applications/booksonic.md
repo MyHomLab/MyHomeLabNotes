@@ -1,11 +1,11 @@
 ---
-sidebar_position: 5
-title: booksonic
-id: booksonic
-position: 5
+sidebar_position: 6
+title: Booksonic
+id: Booksonic
+position: 6
 tags:
   - Introduction
-  - booksonic
+  - Booksonic
   - docker
   - docker-compose
   - tips

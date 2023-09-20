@@ -1,11 +1,11 @@
 ---
-sidebar_position: 75
-title: statping
-id: statping
-position: 75
+sidebar_position: 76
+title: Statping
+id: Statping
+position: 76
 tags:
   - Introduction
-  - statping
+  - Statping
   - docker
   - docker-compose
   - tips

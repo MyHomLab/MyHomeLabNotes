@@ -1,11 +1,11 @@
 ---
-sidebar_position: 47
-title: krusader
-id: krusader
-position: 47
+sidebar_position: 48
+title: Krusader
+id: Krusader
+position: 48
 tags:
   - Introduction
-  - krusader
+  - Krusader
   - docker
   - docker-compose
   - tips

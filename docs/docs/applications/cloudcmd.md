@@ -1,11 +1,11 @@
 ---
-sidebar_position: 9
-title: cloudcmd
-id: cloudcmd
-position: 9
+sidebar_position: 10
+title: Cloudcmd
+id: Cloudcmd
+position: 10
 tags:
   - Introduction
-  - cloudcmd
+  - Cloudcmd
   - docker
   - docker-compose
   - tips

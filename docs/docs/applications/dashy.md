@@ -1,11 +1,11 @@
 ---
-sidebar_position: 14
-title: dashy
-id: dashy
-position: 14
+sidebar_position: 15
+title: Dashy
+id: Dashy
+position: 15
 tags:
   - Introduction
-  - dashy
+  - Dashy
   - docker
   - docker-compose
   - tips

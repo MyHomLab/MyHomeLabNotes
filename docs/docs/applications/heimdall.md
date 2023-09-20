@@ -1,11 +1,11 @@
 ---
-sidebar_position: 36
-title: heimdall
-id: heimdall
-position: 36
+sidebar_position: 37
+title: Heimdall
+id: Heimdall
+position: 37
 tags:
   - Introduction
-  - heimdall
+  - Heimdall
   - docker
   - docker-compose
   - tips

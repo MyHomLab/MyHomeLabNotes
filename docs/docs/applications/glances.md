@@ -1,11 +1,11 @@
 ---
-sidebar_position: 28
-title: glances
-id: glances
-position: 28
+sidebar_position: 29
+title: Glances
+id: Glances
+position: 29
 tags:
   - Introduction
-  - glances
+  - Glances
   - docker
   - docker-compose
   - tips

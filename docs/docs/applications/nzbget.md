@@ -1,11 +1,11 @@
 ---
-sidebar_position: 60
-title: nzbget
-id: nzbget
-position: 60
+sidebar_position: 61
+title: Nzbget
+id: Nzbget
+position: 61
 tags:
   - Introduction
-  - nzbget
+  - Nzbget
   - docker
   - docker-compose
   - tips

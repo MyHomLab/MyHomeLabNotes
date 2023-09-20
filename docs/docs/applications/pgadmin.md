@@ -1,11 +1,11 @@
 ---
-sidebar_position: 64
-title: pgadmin
-id: pgadmin
-position: 64
+sidebar_position: 65
+title: Pgadmin
+id: Pgadmin
+position: 65
 tags:
   - Introduction
-  - pgadmin
+  - Pgadmin
   - docker
   - docker-compose
   - tips

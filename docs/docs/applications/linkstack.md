@@ -1,11 +1,11 @@
 ---
-sidebar_position: 51
-title: linkstack
-id: linkstack
-position: 51
+sidebar_position: 52
+title: Linkstack
+id: Linkstack
+position: 52
 tags:
   - Introduction
-  - linkstack
+  - Linkstack
   - docker
   - docker-compose
   - tips
