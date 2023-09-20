@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6257],{5454:s=>{s.exports=JSON.parse('{"label":"Aprise","permalink":"/docs/tags/aprise","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Aprise","title":"Aprise","description":"","permalink":"/docs/applications/Aprise"}]}')}}]);
