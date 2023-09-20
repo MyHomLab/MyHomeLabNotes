@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3718],{5763:s=>{s.exports=JSON.parse('{"label":"elk","permalink":"/docs/tags/elk","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/elk","title":"elk","description":"","permalink":"/docs/applications/elk"}]}')}}]);

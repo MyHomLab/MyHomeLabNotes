@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[20505],{42138:l=>{l.exports=JSON.parse('{"label":"Heimdall","permalink":"/docs/tags/heimdall","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/heimdall/Heimdall-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/heimdall/Heimdall-Conclusion"}]}')}}]);

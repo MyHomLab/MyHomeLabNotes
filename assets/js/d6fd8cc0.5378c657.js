@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[21940],{20014:o=>{o.exports=JSON.parse('{"label":"Devtools","permalink":"/docs/tags/devtools","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/devtools/Devtools-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/devtools/Devtools-Conclusion"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[58594],{84194:a=>{a.exports=JSON.parse('{"label":"Wallabag","permalink":"/docs/tags/wallabag","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/wallabag/Wallabag-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/wallabag/Wallabag-Conclusion"}]}')}}]);

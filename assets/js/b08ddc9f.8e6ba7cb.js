@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[57434],{18020:e=>{e.exports=JSON.parse('{"label":"CheatSheet","permalink":"/docs/tags/cheat-sheet","allTagsPath":"/docs/tags","count":1,"items":[{"id":"General/docker/Docker-Cheat-Sheet","title":"Cheat Sheet","description":"Check Docker Version*","permalink":"/docs/General/docker/Docker-Cheat-Sheet"}]}')}}]);

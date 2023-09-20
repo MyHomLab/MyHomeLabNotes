@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5550],{236:s=>{s.exports=JSON.parse('{"label":"nextcloud","permalink":"/docs/tags/nextcloud","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/nextcloud","title":"nextcloud","description":"","permalink":"/docs/applications/nextcloud"}]}')}}]);

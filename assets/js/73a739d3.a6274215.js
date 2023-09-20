@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9163],{5822:a=>{a.exports=JSON.parse('{"label":"calibre","permalink":"/docs/tags/calibre","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/calibre","title":"calibre","description":"","permalink":"/docs/applications/calibre"}]}')}}]);

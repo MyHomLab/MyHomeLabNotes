@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8078],{2054:r=>{r.exports=JSON.parse('{"label":"prowlarr","permalink":"/docs/tags/prowlarr","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/prowlarr","title":"prowlarr","description":"","permalink":"/docs/applications/prowlarr"}]}')}}]);

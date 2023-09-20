@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6924],{3834:a=>{a.exports=JSON.parse('{"label":"bitwarden","permalink":"/docs/tags/bitwarden","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/bitwarden","title":"bitwarden","description":"","permalink":"/docs/applications/bitwarden"}]}')}}]);

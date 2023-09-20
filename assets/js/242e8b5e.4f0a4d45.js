@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1542],{3543:s=>{s.exports=JSON.parse('{"label":"ombi","permalink":"/docs/tags/ombi","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/ombi","title":"ombi","description":"","permalink":"/docs/applications/ombi"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7088],{2541:o=>{o.exports=JSON.parse('{"label":"couchpotato","permalink":"/docs/tags/couchpotato","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/couchpotato","title":"couchpotato","description":"","permalink":"/docs/applications/couchpotato"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[79706],{78185:s=>{s.exports=JSON.parse('{"label":"Budge","permalink":"/docs/tags/budge","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/budge/Budge-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/budge/Budge-Conclusion"}]}')}}]);

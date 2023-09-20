@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[11139],{13694:s=>{s.exports=JSON.parse('{"label":"Organizr","permalink":"/docs/tags/organizr","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/organizr/Organizr-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/organizr/Organizr-Conclusion"}]}')}}]);

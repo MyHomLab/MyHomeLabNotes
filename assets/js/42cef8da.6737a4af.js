@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[90552],{31379:s=>{s.exports=JSON.parse('{"label":"Freshrss","permalink":"/docs/tags/freshrss","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/freshrss/Freshrss-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/freshrss/Freshrss-Conclusion"}]}')}}]);

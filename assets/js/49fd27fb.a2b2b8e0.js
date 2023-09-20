@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1021],{9140:s=>{s.exports=JSON.parse('{"label":"plex","permalink":"/docs/tags/plex","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/plex","title":"plex","description":"","permalink":"/docs/applications/plex"}]}')}}]);

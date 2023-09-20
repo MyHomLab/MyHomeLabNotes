@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[43165],{79321:i=>{i.exports=JSON.parse('{"label":"Dillinger","permalink":"/docs/tags/dillinger","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/dillinger/Dillinger-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/dillinger/Dillinger-Conclusion"}]}')}}]);

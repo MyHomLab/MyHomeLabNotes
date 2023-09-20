@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[55636],{95845:s=>{s.exports=JSON.parse('{"label":"Spotify","permalink":"/docs/tags/spotify","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/spotify/Spotify-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/spotify/Spotify-Conclusion"}]}')}}]);

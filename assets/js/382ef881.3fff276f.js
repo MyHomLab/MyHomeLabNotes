@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[13767],{71230:l=>{l.exports=JSON.parse('{"label":"Jellyfin","permalink":"/docs/tags/jellyfin","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/jellyfin/Jellyfin-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/jellyfin/Jellyfin-Conclusion"}]}')}}]);

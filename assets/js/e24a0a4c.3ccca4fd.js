@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[77769],{18597:t=>{t.exports=JSON.parse('{"label":"Gittea","permalink":"/docs/tags/gittea","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/gittea/Gittea-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/gittea/Gittea-Conclusion"}]}')}}]);

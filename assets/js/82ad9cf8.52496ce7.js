@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[25807],{90269:o=>{o.exports=JSON.parse('{"label":"Joplin","permalink":"/docs/tags/joplin","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/joplin/Joplin-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/joplin/Joplin-Conclusion"}]}')}}]);

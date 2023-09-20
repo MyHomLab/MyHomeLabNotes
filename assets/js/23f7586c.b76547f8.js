@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5197],{6889:a=>{a.exports=JSON.parse('{"label":"lidarr","permalink":"/docs/tags/lidarr","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/lidarr","title":"lidarr","description":"","permalink":"/docs/applications/lidarr"}]}')}}]);

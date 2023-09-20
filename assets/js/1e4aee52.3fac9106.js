@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[87915],{27435:s=>{s.exports=JSON.parse('{"label":"Cops","permalink":"/docs/tags/cops","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/cops/Cops-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/cops/Cops-Conclusion"}]}')}}]);

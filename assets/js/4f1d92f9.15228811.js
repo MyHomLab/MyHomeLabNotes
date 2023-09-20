@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[61799],{45563:e=>{e.exports=JSON.parse('{"label":"Thelounge","permalink":"/docs/tags/thelounge","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/thelounge/Thelounge-Conclusion","title":"Conclusion","description":"","permalink":"/docs/applications/thelounge/Thelounge-Conclusion"}]}')}}]);

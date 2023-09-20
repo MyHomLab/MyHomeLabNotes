@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5834],{4889:c=>{c.exports=JSON.parse('{"label":"docker-gc","permalink":"/docs/tags/docker-gc","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/docker-gc","title":"docker-gc","description":"","permalink":"/docs/applications/docker-gc"}]}')}}]);
