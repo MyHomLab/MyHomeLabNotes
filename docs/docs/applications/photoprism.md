@@ -1,8 +1,8 @@
 ---
-sidebar_position: 65
+sidebar_position: 66
 title: photoprism
 id: photoprism
-position: 65
+position: 66
 tags:
   - Introduction
   - photoprism

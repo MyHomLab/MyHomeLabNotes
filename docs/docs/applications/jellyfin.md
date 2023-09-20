@@ -1,8 +1,8 @@
 ---
-sidebar_position: 43
+sidebar_position: 44
 title: jellyfin
 id: jellyfin
-position: 43
+position: 44
 tags:
   - Introduction
   - jellyfin

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 73
+sidebar_position: 74
 title: spotify
 id: spotify
-position: 73
+position: 74
 tags:
   - Introduction
   - spotify

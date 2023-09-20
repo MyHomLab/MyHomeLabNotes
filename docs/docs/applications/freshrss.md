@@ -1,8 +1,8 @@
 ---
-sidebar_position: 26
+sidebar_position: 27
 title: freshrss
 id: freshrss
-position: 26
+position: 27
 tags:
   - Introduction
   - freshrss

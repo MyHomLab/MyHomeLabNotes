@@ -1,8 +1,8 @@
 ---
-sidebar_position: 58
+sidebar_position: 59
 title: netdata
 id: netdata
-position: 58
+position: 59
 tags:
   - Introduction
   - netdata

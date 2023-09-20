@@ -1,8 +1,8 @@
 ---
-sidebar_position: 41
+sidebar_position: 42
 title: jackett
 id: jackett
-position: 41
+position: 42
 tags:
   - Introduction
   - jackett

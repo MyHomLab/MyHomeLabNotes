@@ -1,8 +1,8 @@
 ---
-sidebar_position: 29
+sidebar_position: 30
 title: gotify
 id: gotify
-position: 29
+position: 30
 tags:
   - Introduction
   - gotify

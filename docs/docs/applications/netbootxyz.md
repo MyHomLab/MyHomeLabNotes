@@ -1,8 +1,8 @@
 ---
-sidebar_position: 57
+sidebar_position: 58
 title: netbootxyz
 id: netbootxyz
-position: 57
+position: 58
 tags:
   - Introduction
   - netbootxyz

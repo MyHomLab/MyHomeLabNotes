@@ -1,8 +1,8 @@
 ---
-sidebar_position: 45
+sidebar_position: 46
 title: joplin
 id: joplin
-position: 45
+position: 46
 tags:
   - Introduction
   - joplin

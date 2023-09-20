@@ -1,8 +1,8 @@
 ---
-sidebar_position: 52
+sidebar_position: 53
 title: mealie
 id: mealie
-position: 52
+position: 53
 tags:
   - Introduction
   - mealie

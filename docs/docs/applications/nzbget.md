@@ -1,8 +1,8 @@
 ---
-sidebar_position: 60
+sidebar_position: 61
 title: nzbget
 id: nzbget
-position: 60
+position: 61
 tags:
   - Introduction
   - nzbget

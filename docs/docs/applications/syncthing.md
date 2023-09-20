@@ -1,8 +1,8 @@
 ---
-sidebar_position: 76
+sidebar_position: 77
 title: syncthing
 id: syncthing
-position: 76
+position: 77
 tags:
   - Introduction
   - syncthing

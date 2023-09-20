@@ -1,8 +1,8 @@
 ---
-sidebar_position: 37
+sidebar_position: 38
 title: homeassistant
 id: homeassistant
-position: 37
+position: 38
 tags:
   - Introduction
   - homeassistant

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 67
+sidebar_position: 68
 title: piwigo
 id: piwigo
-position: 67
+position: 68
 tags:
   - Introduction
   - piwigo

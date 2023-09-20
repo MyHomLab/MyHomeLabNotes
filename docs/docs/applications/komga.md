@@ -1,8 +1,8 @@
 ---
-sidebar_position: 46
+sidebar_position: 47
 title: komga
 id: komga
-position: 46
+position: 47
 tags:
   - Introduction
   - komga

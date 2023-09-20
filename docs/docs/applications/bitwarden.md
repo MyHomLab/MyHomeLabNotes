@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: bitwarden
 id: bitwarden
-position: 4
+position: 5
 tags:
   - Introduction
   - bitwarden

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 48
+sidebar_position: 49
 title: kuma
 id: kuma
-position: 48
+position: 49
 tags:
   - Introduction
   - kuma

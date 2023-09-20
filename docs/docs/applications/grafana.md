@@ -1,8 +1,8 @@
 ---
-sidebar_position: 30
+sidebar_position: 31
 title: grafana
 id: grafana
-position: 30
+position: 31
 tags:
   - Introduction
   - grafana

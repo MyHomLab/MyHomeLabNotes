@@ -1,8 +1,8 @@
 ---
-sidebar_position: 50
+sidebar_position: 51
 title: lidarr
 id: lidarr
-position: 50
+position: 51
 tags:
   - Introduction
   - lidarr

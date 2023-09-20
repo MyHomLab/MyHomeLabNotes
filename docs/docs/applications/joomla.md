@@ -1,8 +1,8 @@
 ---
-sidebar_position: 44
+sidebar_position: 45
 title: joomla
 id: joomla
-position: 44
+position: 45
 tags:
   - Introduction
   - joomla

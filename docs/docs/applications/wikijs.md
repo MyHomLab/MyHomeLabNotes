@@ -1,8 +1,8 @@
 ---
-sidebar_position: 83
+sidebar_position: 84
 title: wikijs
 id: wikijs
-position: 83
+position: 84
 tags:
   - Introduction
   - wikijs

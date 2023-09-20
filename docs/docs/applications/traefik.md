@@ -1,8 +1,8 @@
 ---
-sidebar_position: 78
+sidebar_position: 79
 title: traefik
 id: traefik
-position: 78
+position: 79
 tags:
   - Introduction
   - traefik
