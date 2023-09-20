@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3178],{7940:s=>{s.exports=JSON.parse('{"label":"Cadvisor","permalink":"/docs/tags/cadvisor","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Cadvisor","title":"Cadvisor","description":"","permalink":"/docs/applications/Cadvisor"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8178],{8982:a=>{a.exports=JSON.parse('{"label":"pgadmin","permalink":"/docs/tags/pgadmin","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/pgadmin","title":"pgadmin","description":"","permalink":"/docs/applications/pgadmin"}]}')}}]);

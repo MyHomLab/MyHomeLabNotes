@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6577],{2886:a=>{a.exports=JSON.parse('{"label":"Openhab","permalink":"/docs/tags/openhab","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Openhab","title":"Openhab","description":"","permalink":"/docs/applications/Openhab"}]}')}}]);

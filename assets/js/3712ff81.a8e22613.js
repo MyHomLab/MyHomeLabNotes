@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1498],{5300:c=>{c.exports=JSON.parse('{"label":"duplicacy","permalink":"/docs/tags/duplicacy","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/duplicacy","title":"duplicacy","description":"","permalink":"/docs/applications/duplicacy"}]}')}}]);

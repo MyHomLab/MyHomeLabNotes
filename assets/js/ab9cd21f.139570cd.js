@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6486],{2073:s=>{s.exports=JSON.parse('{"label":"gotify","permalink":"/docs/tags/gotify","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/gotify","title":"gotify","description":"","permalink":"/docs/applications/gotify"}]}')}}]);

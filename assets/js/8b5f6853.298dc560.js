@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3834],{2248:o=>{o.exports=JSON.parse('{"label":"ubooquity","permalink":"/docs/tags/ubooquity","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/ubooquity","title":"ubooquity","description":"","permalink":"/docs/applications/ubooquity"}]}')}}]);

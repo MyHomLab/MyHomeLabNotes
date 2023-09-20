@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3441],{3815:s=>{s.exports=JSON.parse('{"label":"Homeassistant","permalink":"/docs/tags/homeassistant","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Homeassistant","title":"Homeassistant","description":"","permalink":"/docs/applications/Homeassistant"}]}')}}]);

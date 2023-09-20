@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3971],{4480:a=>{a.exports=JSON.parse('{"label":"pyload","permalink":"/docs/tags/pyload","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/pyload","title":"pyload","description":"","permalink":"/docs/applications/pyload"}]}')}}]);

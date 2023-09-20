@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5205],{2226:a=>{a.exports=JSON.parse('{"label":"handbrake","permalink":"/docs/tags/handbrake","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/handbrake","title":"handbrake","description":"","permalink":"/docs/applications/handbrake"}]}')}}]);

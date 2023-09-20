@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3963],{802:a=>{a.exports=JSON.parse('{"label":"Navidrome","permalink":"/docs/tags/navidrome","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Navidrome","title":"Navidrome","description":"","permalink":"/docs/applications/Navidrome"}]}')}}]);

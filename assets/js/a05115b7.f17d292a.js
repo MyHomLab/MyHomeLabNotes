@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2963],{3070:e=>{e.exports=JSON.parse('{"label":"doublecommander","permalink":"/docs/tags/doublecommander","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/doublecommander","title":"doublecommander","description":"","permalink":"/docs/applications/doublecommander"}]}')}}]);

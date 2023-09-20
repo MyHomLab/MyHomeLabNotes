@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5495],{5340:s=>{s.exports=JSON.parse('{"label":"Wikijs","permalink":"/docs/tags/wikijs","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Wikijs","title":"Wikijs","description":"","permalink":"/docs/applications/Wikijs"}]}')}}]);

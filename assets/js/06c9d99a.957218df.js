@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[6919],{2376:i=>{i.exports=JSON.parse('{"label":"piwigo","permalink":"/docs/tags/piwigo","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/piwigo","title":"piwigo","description":"","permalink":"/docs/applications/piwigo"}]}')}}]);

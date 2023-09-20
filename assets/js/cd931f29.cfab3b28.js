@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9085],{3522:s=>{s.exports=JSON.parse('{"label":"krusader","permalink":"/docs/tags/krusader","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/krusader","title":"krusader","description":"","permalink":"/docs/applications/krusader"}]}')}}]);

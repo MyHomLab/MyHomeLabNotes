@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7798],{7016:i=>{i.exports=JSON.parse('{"label":"miniflux","permalink":"/docs/tags/miniflux","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/miniflux","title":"miniflux","description":"","permalink":"/docs/applications/miniflux"}]}')}}]);

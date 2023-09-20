@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7769],{3933:a=>{a.exports=JSON.parse('{"label":"Traefik","permalink":"/docs/tags/traefik","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Traefik","title":"Traefik","description":"","permalink":"/docs/applications/Traefik"}]}')}}]);

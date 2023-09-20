@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5631],{4111:o=>{o.exports=JSON.parse('{"label":"whoogle","permalink":"/docs/tags/whoogle","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/whoogle","title":"whoogle","description":"","permalink":"/docs/applications/whoogle"}]}')}}]);

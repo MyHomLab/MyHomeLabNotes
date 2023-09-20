@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9622],{4191:e=>{e.exports=JSON.parse('{"label":"homebridge","permalink":"/docs/tags/homebridge","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/homebridge","title":"homebridge","description":"","permalink":"/docs/applications/homebridge"}]}')}}]);

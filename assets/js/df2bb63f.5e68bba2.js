@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1545],{7560:t=>{t.exports=JSON.parse('{"label":"Statping","permalink":"/docs/tags/statping","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Statping","title":"Statping","description":"","permalink":"/docs/applications/Statping"}]}')}}]);

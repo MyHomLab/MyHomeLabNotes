@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[7141],{4926:e=>{e.exports=JSON.parse('{"label":"Deluge","permalink":"/docs/tags/deluge","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Deluge","title":"Deluge","description":"","permalink":"/docs/applications/Deluge"}]}')}}]);

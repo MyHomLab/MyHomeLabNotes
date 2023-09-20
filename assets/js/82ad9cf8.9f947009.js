@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5807],{269:s=>{s.exports=JSON.parse('{"label":"joplin","permalink":"/docs/tags/joplin","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/joplin","title":"joplin","description":"","permalink":"/docs/applications/joplin"}]}')}}]);

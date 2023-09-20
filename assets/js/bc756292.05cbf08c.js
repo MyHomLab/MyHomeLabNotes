@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[9927],{6495:s=>{s.exports=JSON.parse('{"label":"Photoprism","permalink":"/docs/tags/photoprism","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Photoprism","title":"Photoprism","description":"","permalink":"/docs/applications/Photoprism"}]}')}}]);

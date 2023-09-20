@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4963],{7171:a=>{a.exports=JSON.parse('{"label":"Authelia","permalink":"/docs/tags/authelia","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Authelia","title":"Authelia","description":"","permalink":"/docs/applications/Authelia"}]}')}}]);

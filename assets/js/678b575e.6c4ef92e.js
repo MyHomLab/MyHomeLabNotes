@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5056],{987:e=>{e.exports=JSON.parse('{"label":"Hedgedoc","permalink":"/docs/tags/hedgedoc","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Hedgedoc","title":"Hedgedoc","description":"","permalink":"/docs/applications/Hedgedoc"}]}')}}]);

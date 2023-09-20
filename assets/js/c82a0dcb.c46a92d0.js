@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8949],{8048:s=>{s.exports=JSON.parse('{"label":"Webtop","permalink":"/docs/tags/webtop","allTagsPath":"/docs/tags","count":1,"items":[{"id":"applications/Webtop","title":"Webtop","description":"","permalink":"/docs/applications/Webtop"}]}')}}]);
