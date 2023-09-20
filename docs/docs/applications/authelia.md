@@ -1,11 +1,12 @@
 ---
 sidebar_position: 2
-title: Introduction
-id: Authelia-Introduction
+title: Authelia
+id: Authelia
 tags:
   - Authelia
   - OAuth
   - Security
+  - Docker
 ---
 
 # Introduction
